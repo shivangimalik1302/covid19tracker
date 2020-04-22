@@ -1,0 +1,30 @@
+#mybody{
+    background-color: darkslategrey;
+    color: white;
+}
+
+*{
+    text-align: center;
+}
+p{
+    font-size: 60px;
+}
+
+.data{
+    background-color: blanchedalmond;
+    color: darkblue;
+    padding: 20px;
+    width:30%;
+    font-style: italic;
+
+}
+
+.data_parent{
+    display: flex;
+    justify-content: space-between;
+    margin: white;
+    margin-top: 170px;
+    padding: 10px;
+    
+
+}
